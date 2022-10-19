@@ -1,6 +1,6 @@
 # GetIPfromHostname
 
-Supply a textfile with hostnames and the script will try and resolve it into an ip adress and output the data into a file called results.txt
+Supply a textfile with hostnames and the script will try and resolve it into an ip adress and output the data into a file called results.csv
 
 Example: Python3 GetIP.py listofhostnames.txt 
 
